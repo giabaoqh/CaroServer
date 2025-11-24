@@ -3,15 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/GIGABYTE/Documents/NetBeansProjects/caro-game-server/src/controller/Server.java</file>
-            <file>file:/C:/Users/GIGABYTE/Documents/NetBeansProjects/caro-game-server/src/controller/Room.java</file>
-            <file>file:/C:/Users/GIGABYTE/Documents/NetBeansProjects/caro-game-server/src/controller/ServerThread.java</file>
-            <file>file:/C:/Users/GIGABYTE/Documents/NetBeansProjects/caro-game-server/src/controller/ServerThreadBus.java</file>
-            <file>file:/C:/Users/GIGABYTE/Documents/NetBeansProjects/caro-game-server/src/dao/UserDAO.java</file>
-            <file>file:/C:/Users/GIGABYTE/Documents/NetBeansProjects/caro-game-server/src/view/Admin.java</file>
-            <file>file:/C:/Users/GIGABYTE/Documents/NetBeansProjects/caro-game-server/src/sql/creat_db.sql</file>
-            <file>file:/C:/Users/GIGABYTE/Documents/NetBeansProjects/caro-game-server/src/model/User.java</file>
-            <file>file:/C:/Users/GIGABYTE/Documents/NetBeansProjects/caro-game-server/src/dao/DAO.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/CaroServer/src/sql/creat_db.sql</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/CaroServer/src/controller/Server.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/CaroServer/src/view/AdminNew.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/CaroServer/src/controller/ServerThread.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/CaroServer/src/controller/ServerThreadBus.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/CaroServer/src/controller/Room.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/CaroServer/src/view/Admin.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/CaroServer/src/view/background.jpg</file>
         </group>
     </open-files>
 </project-private>

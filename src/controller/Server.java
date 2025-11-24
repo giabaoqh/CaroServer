@@ -6,6 +6,7 @@
 package controller;
 
 import view.Admin;
+import view.AdminNew;
 
 import java.io.IOException;
 import java.net.ServerSocket;
@@ -22,7 +23,7 @@ public class Server {
     public static volatile ServerThreadBus serverThreadBus;
     public static Socket socketOfServer;
     public static int ROOM_ID;
-    public static volatile Admin admin;
+    public static volatile AdminNew admin;
 
     public static void main(String[] args) {
         ServerSocket listener = null;
@@ -44,8 +45,8 @@ public class Server {
                 TimeUnit.SECONDS,
                 new ArrayBlockingQueue<>(8)
         );
-        admin = new Admin();
-        admin.run();
+        admin = new AdminNew();
+        admin.setVisible(true);
         try {
             while (true) {
                 socketOfServer = listener.accept();

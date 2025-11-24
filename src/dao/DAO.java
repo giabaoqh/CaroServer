@@ -20,7 +20,7 @@ public class DAO {
         final String JDBC_USER = "root"; 
         final String JDBC_PASSWORD = ""; 
         try {
-            Class.forName("com.mysql.jdbc.Driver");
+            Class.forName("com.mysql.cj.jdbc.Driver");
             con = DriverManager.getConnection(jdbcURL, JDBC_USER, JDBC_PASSWORD);
         } catch (Exception e) {
             e.printStackTrace();
